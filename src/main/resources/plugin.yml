@@ -3,4 +3,12 @@ version: 1
 main: com.minehut.Template
 description: Template
 author: minehut
-api-version: 1.16
+api-version: 1.17
+commands:
+  start:
+    description: Starts the minigame
+    usage: /<command>
+  pos1:
+    description: sets pos1
+  pos2:
+    description: sets pos1
